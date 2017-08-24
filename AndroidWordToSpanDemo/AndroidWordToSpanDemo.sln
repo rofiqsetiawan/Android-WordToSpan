@@ -1,0 +1,31 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.10
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AndroidWordToSpanDemo", "AndroidWordToSpanDemo.csproj", "{F0E5E0D3-B3B7-4856-89E9-4A9492AC5A0C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AndroidWordToSpan", "..\AndroidWordToSpanLib\AndroidWordToSpan.csproj", "{1AFD3E44-D820-4C5E-B596-460F3CDE4657}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F0E5E0D3-B3B7-4856-89E9-4A9492AC5A0C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F0E5E0D3-B3B7-4856-89E9-4A9492AC5A0C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F0E5E0D3-B3B7-4856-89E9-4A9492AC5A0C}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{F0E5E0D3-B3B7-4856-89E9-4A9492AC5A0C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F0E5E0D3-B3B7-4856-89E9-4A9492AC5A0C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1AFD3E44-D820-4C5E-B596-460F3CDE4657}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1AFD3E44-D820-4C5E-B596-460F3CDE4657}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1AFD3E44-D820-4C5E-B596-460F3CDE4657}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1AFD3E44-D820-4C5E-B596-460F3CDE4657}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D2D08686-D800-49E9-9B89-B8AE0A0770BE}
+	EndGlobalSection
+EndGlobal
